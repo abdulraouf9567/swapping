@@ -17,3 +17,10 @@ void main()
 	printf("\n values after swapping");
 	printf("\n x:%d \n y=%d",x,y);
 }
+
+
+Logic without using temp variable
+
+a = a+b
+b = a-b
+a = a-b
